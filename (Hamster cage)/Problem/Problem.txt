@@ -1,0 +1,5 @@
+Two sets of cubes are given, and each is described as a h_i × w_i matrix. (1 ≤ h_i, w_i ≤ 10, 1 ≤ i ≤ 2). Each h_i × w_i matrix describes each figure in top view. "*" represents a cube, and "." represents an empty space.
+Each of the figures is connected and contains at least one cube.
+The pieces must be placed in such a way that each die touches the table face. The sides of the lower faces of the cubes must be parallel to the sides of the table. Any two cubes belonging to different figures must either not touch each other, have a common face, or have a common edge. Figures are allowed to be rotated and flipped.
+Having put the figures on the table, you are going to release the hamster on the table so that he does not fall off the table. He should not be able to get from the point where you will release him to the edge of the table. A hamster cannot climb over cubes, and in particular, it cannot climb between two cubes that share an edge. The table is significantly larger than each of the figures.
+Calculate the maximum area a territory can have that a hamster can reach. The area of the face of the cube will be considered equal to unity.
