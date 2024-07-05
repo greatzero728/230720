@@ -1,3 +1,0 @@
-You have to iterate over each block of cubes, rotating and flipping them to the correct orientation.
-Then, find any empty spaces on the table and performs a depth-first search to determine the maximum area a territory can have that a hamster can reach.
-The area of the face of the cube is considered equal to unity.

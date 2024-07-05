@@ -1,3 +1,0 @@
-"MakeTest"
-"(Hamster cage)"
-"Trivial"
